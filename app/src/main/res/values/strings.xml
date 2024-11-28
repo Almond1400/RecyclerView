@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Recycl2</string>
+    <string-array name="book">
+        <item>Преступление и наказание</item>
+        <item>Отцы и дети</item>
+        <item>Хаджи-Мурат</item>
+        <item>Гроза</item>
+        <item>На дне</item>
+        <item>Доктор Живаго</item>
+        <item>Белая гвардия</item>
+        <item>Евгений Онегин</item>
+        <item>Антоновские яблоки</item>
+        <item>Дуэль</item>
+    </string-array>
+    <string-array name="author">
+        <item>Фёдор Михайлович Достоевский</item>
+        <item>Иван Сергеевич Тургенев</item>
+        <item>Лев Николаевич Толстой</item>
+        <item>Александр Николаевич Островский</item>
+        <item>Максим Горький</item>
+        <item>Борис Леонидович Пастернак</item>
+        <item>Михаил Афанасьевич Булгаков</item>
+        <item>Александр Сергеевич Пушкин</item>
+        <item>Иван Алексеевич Бунин</item>
+        <item>Антон Павлович Чехов</item>
+    </string-array>
+    <string-array name="genre">
+        <item>Социально-психологический роман</item>
+        <item>Социально-психологический роман</item>
+        <item>Повесть</item>
+        <item>Драмматическая пьеса</item>
+        <item>Драмматическая пьеса</item>
+        <item>Роман</item>
+        <item>Исторический роман</item>
+        <item>Роман в стихах</item>
+        <item>Повесть</item>
+        <item></item>
+    </string-array>
+</resources>
